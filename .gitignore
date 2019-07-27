@@ -38,6 +38,7 @@ sysinfo.txt
 
 # Unique Google Services Files
 google-services.json
+google-services.xml
 google-services-desktop.json
 
 # Ignore Third-Party Commerical Plugins
@@ -45,3 +46,4 @@ NGUI
 ParadoxNotion
 RestClient
 SLS
+Plugins
