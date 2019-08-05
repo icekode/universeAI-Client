@@ -39,7 +39,7 @@ namespace _UniverseAI.Scripts.Misc
             componentModel.componentType = "_mineral";
             
             
-            RestClient.Post("https://us-central1-universeai-icekode-firebase.cloudfunctions.net/componentsLoadList", componentModel)
+            RestClient.Post("https://https://us-central1-projectuai.cloudfunctions.net/componentsLoadList", componentModel)
                 .Then(response =>
                 {
                    ComponentModel[] componentArray = UAIJsonHelper.FromOutsideJson<ComponentModel>(response.Text);
