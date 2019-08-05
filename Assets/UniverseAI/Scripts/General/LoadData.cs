@@ -5,6 +5,7 @@ using _UniverseAI.Scripts.Controllers;
 using _UniverseAI.Scripts.Models;
 using Proyecto26;
 using UnityEngine;
+using UniverseAI.Scripts.General;
 
 namespace _UniverseAI.Scripts.Misc
 {
@@ -39,7 +40,7 @@ namespace _UniverseAI.Scripts.Misc
             componentModel.componentType = "_mineral";
             
             
-            RestClient.Post("https://https://us-central1-projectuai.cloudfunctions.net/componentsLoadList", componentModel)
+            RestClient.Post(ConstantsUAI.FIRESTORE_API_PATH + "componentsLoadList", componentModel)
                 .Then(response =>
                 {
                    ComponentModel[] componentArray = UAIJsonHelper.FromOutsideJson<ComponentModel>(response.Text);

@@ -34,6 +34,13 @@ public class MainGameController : MonoBehaviour
         throw new System.Exception("test exception please ignore");
     }
 
+    public void ButtonTestMineralLoad()
+    {
+        BehaviourFirestore dbTest = new BehaviourFirestore();
+        
+        dbTest.TestLoadMineral();
+    }
+
     public void ButtonExitApp()
     {
         Debug.Log("Quitting Application");
