@@ -17,7 +17,8 @@ public class MainGameController : MonoBehaviour
     void Start()
     {
       //  DisablePanels();
-      gameObject.GetComponent<GameSceneBehaviour>().changeScene("gameControlMenu");
+      // Various scenes gameControlMenu, mainControlMenu, authenticationMenu
+      gameObject.GetComponent<GameSceneBehaviour>().changeScene("authenticationMenu");
 
     }
 
@@ -51,6 +52,14 @@ public class MainGameController : MonoBehaviour
     {
         //DisablePanels();
         gameObject.GetComponent<GameSceneBehaviour>().changeScene("mainControlMenu");
+        Debug.Log("Activate Main Control Panel.");
+    }
+
+    public void ButtonGameControlPanel()
+    {
+        gameObject.GetComponent<GameSceneBehaviour>().changeScene("gameControlMenu");
+       // this.GetComponent<Blackboard>().SetValue("currentScene", "gameControlMenu");
+    
         Debug.Log("Activate Main Control Panel.");
     }
 
