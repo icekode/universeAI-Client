@@ -36,6 +36,11 @@ namespace UniverseAI.Scripts.Behaviours
         }
 
 
+        public void LoginUserViaEmail()
+        {
+            HandleUserLogInViaEmail(inputEmail.value, inputPassword.value);
+        }
+
         public void CreateNewUserViaEmail()
         {
             Debug.Log("Creating Account for " + inputEmail.value);
@@ -49,6 +54,30 @@ namespace UniverseAI.Scripts.Behaviours
             gameController.GetComponent<MainGameController>().ButtonGameControlPanel();
           
             
+        }
+
+        private void HandleUserLogInViaEmail(string email, string password)
+        {
+            auth.SignInWithEmailAndPasswordAsync(email, password).ContinueWith(task =>
+            {
+                if (task.IsCanceled)
+                {
+                    Debug.LogError("SignInWithEmailAndPasswordAsync was canceled");
+                    return;
+                }
+
+                if (task.IsFaulted)
+                {
+                    Debug.LogError("SignInWithEmailAndPasswordAsync encountered an error: " + task.Exception);
+                    return;
+                }
+                
+                FirebaseUser currentUser = task.Result;
+                Debug.LogFormat("Firebase user logged in: {0} ({1})",
+                    currentUser.DisplayName, currentUser.UserId);
+                isAccountCreated = true;
+
+            });
         }
 
         private void HandelNewUserViaEmail(string email, string password)
