@@ -56,6 +56,7 @@ namespace UniverseAI.Scripts.Behaviours
             
         }
 
+    
         private void HandleUserLogInViaEmail(string email, string password)
         {
             auth.SignInWithEmailAndPasswordAsync(email, password).ContinueWith(task =>
