@@ -1,3 +1,1 @@
-* alpha-0.0.1 - NGUI Added
-* alpha-0.0.2 = RestAPI Added
-* alpha-0.0.5 - added google play services
+* alpha-0.1.0.0 - Streamlined Login/Account Creation Framework | 8/16/2019

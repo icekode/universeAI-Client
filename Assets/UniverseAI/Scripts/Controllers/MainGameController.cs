@@ -3,10 +3,13 @@ using System.Collections;
 using System.Collections.Generic;
 using NodeCanvas.Framework;
 using UnityEngine;
+using UniverseAI.Scripts.Controllers;
+using _UniverseAI.Scripts.Controllers;
 
 public class MainGameController : MonoBehaviour
 {
     public GameObject subMenuAdminPanel;
+    public GameObject authController;
 
     void Awake()
     {
@@ -18,7 +21,7 @@ public class MainGameController : MonoBehaviour
     {
       //  DisablePanels();
       // Various scenes gameControlMenu, mainControlMenu, authenticationMenu
-      gameObject.GetComponent<GameSceneBehaviour>().changeScene("authenticationMenu");
+      gameObject.GetComponent<GameSceneBehaviour>().changeScene("gameControlMenu");
 
     }
 
@@ -28,8 +31,12 @@ public class MainGameController : MonoBehaviour
         
     }
 
-   
 
+
+    public void ButtonSignOut()
+    {
+        authController.GetComponent<ControllerAuthentication>().SignOut();
+    }
     public void ButtonTestCrashlytics()
     {
         throw new System.Exception("test exception please ignore");

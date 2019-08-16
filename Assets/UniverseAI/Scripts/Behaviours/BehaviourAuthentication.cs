@@ -51,6 +51,25 @@ namespace UniverseAI.Scripts.Behaviours
         private void AuthSuccessful()
         {
             Debug.Log("Auth Successful1");
+            Firebase.Auth.FirebaseUser user = auth.CurrentUser;
+            user.TokenAsync(true).ContinueWith(task => {
+                if (task.IsCanceled) {
+                    Debug.LogError("TokenAsync was canceled.");
+                    return;
+                }
+
+                if (task.IsFaulted) {
+                    Debug.LogError("TokenAsync encountered an error: " + task.Exception);
+                    return;
+                }
+
+                string idToken = task.Result;
+                Debug.Log("User Token is :" + idToken);
+
+                // Send token to your backend via HTTPS
+                // ...
+            });
+            Debug.Log("User TOoken Updated");
             gameController.GetComponent<MainGameController>().ButtonGameControlPanel();
           
             
