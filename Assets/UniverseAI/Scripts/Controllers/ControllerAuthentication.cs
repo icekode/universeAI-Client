@@ -3,6 +3,7 @@ using UniverseAI.Scripts.General;
 using System;
 using UnityEngine;
 using Firebase.Auth;
+using NodeCanvas.Framework;
 
 //TODO Combined login/create account screens. Now need to create some type of screen to get details for new useer.
 
@@ -135,6 +136,7 @@ namespace UniverseAI.Scripts.Controllers
                 }
 
                 userToken = task.Result;
+                this.gameObject.GetComponent<GlobalBlackboard>().SetValue("userToken", userToken);
 
                 // Send token to your backend via HTTPS
                 // ...
