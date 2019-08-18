@@ -1084,6 +1084,7 @@
           <e p="Scripts" t="Include">
             <e p="Behaviours" t="Include">
               <e p="BehaviourAuthentication.cs" t="Include" />
+              <e p="BehaviourBanner.cs" t="Include" />
               <e p="BehaviourUser.cs" t="Include" />
               <e p="GameSceneBehaviour.cs" t="Include" />
               <e p="InfoTableRowBehaviour.cs" t="Include" />
@@ -1094,6 +1095,7 @@
               <e p="ComponentInfoPanelController.cs" t="Include" />
               <e p="ComponentInventoryPanelController.cs" t="Include" />
               <e p="ControllerAuthentication.cs" t="Include" />
+              <e p="ControllerMobileAds.cs" t="Include" />
               <e p="MainGameController.cs" t="Include" />
             </e>
             <e p="General" t="Include">

@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70527da0-2321-4382-8e96-40b77a74e338" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourBanner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourBanner.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerMobileAds.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerMobileAds.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.116.0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.116.0.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.116.0.dll.mdb.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.116.0.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.116.0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.116.0.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.116.0.dll.mdb.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.116.0.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.mdb.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.116.0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.116.0.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.116.0.dll.mdb.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.116.0.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/play-services-resolver_v1.2.116.0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/play-services-resolver_v1.2.116.0.txt.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,22 +20,29 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerAuthentication.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInitializationStatusClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInitializationStatusClient.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/SLS/Widgets/Table/Editor/TableEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerMobileAds.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/InfoTableRowBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/General/LoadData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourBanner.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerAuthentication.cs" />
         <option value="$PROJECT_DIR$/Assets/UniverseAI/Scripts/General/LoadData.cs" />
+        <option value="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourBanner.cs" />
+        <option value="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerMobileAds.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1PWjIaCYDu3bDv9Nu2JjfAiTUVx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -62,6 +56,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -106,7 +101,7 @@
       <workItem from="1565996723190" duration="731000" />
       <workItem from="1565998228323" duration="304000" />
       <workItem from="1566053335794" duration="353000" />
-      <workItem from="1566053777968" duration="4321000" />
+      <workItem from="1566053777968" duration="6562000" />
     </task>
     <task id="LOCAL-00001" summary="Added firebase auth to all outbound request for firestore.&#10;https://github.com/icekode/universeAI-Client/issues/30">
       <created>1566059860976</created>
@@ -115,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566059860976</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added google ads sdk">
+      <created>1566090176742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566090176742</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,15 +139,19 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="Added firebase auth to all outbound request for firestore.&#10;https://github.com/icekode/universeAI-Client/issues/30" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added firebase auth to all outbound request for firestore.&#10;https://github.com/icekode/universeAI-Client/issues/30" />
+    <MESSAGE value="Added google ads sdk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added google ads sdk" />
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="143" key="SettingsEditor" />
     <state x="446" y="143" key="SettingsEditor/1920.1080" />
     <state x="634" y="265" key="Vcs.Push.Dialog" />
     <state x="634" y="265" key="Vcs.Push.Dialog/1920.1080" />
+    <state x="616" y="230" key="run.anything.popup" />
+    <state x="616" y="230" key="run.anything.popup/1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
