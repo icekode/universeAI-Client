@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70527da0-2321-4382-8e96-40b77a74e338" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourBanner.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourBanner.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerMobileAds.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerMobileAds.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/link.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/link.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/res/values/crashlytics_build_id.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/res/values/crashlytics_build_id.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.answers-1.4.7.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.answers-1.4.7.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.beta-1.2.10.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.beta-1.2.10.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-2.9.9.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-2.9.9.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-core-2.6.8.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-core-2.6.8.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.auto.value.auto-value-annotations-1.6.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.auto.value.auto-value-annotations-1.6.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.firebase.firebase-analytics-unity-6.1.1.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.firebase.firebase-analytics-unity-6.1.1.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-6.1.1.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-6.1.1.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.firebase.firebase-crashlytics-unity-6.1.1.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.firebase.firebase-crashlytics-unity-6.1.1.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/io.fabric.sdk.android.fabric-1.4.8.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/io.fabric.sdk.android.fabric-1.4.8.aar" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +110,7 @@
       <workItem from="1565996723190" duration="731000" />
       <workItem from="1565998228323" duration="304000" />
       <workItem from="1566053335794" duration="353000" />
-      <workItem from="1566053777968" duration="6562000" />
+      <workItem from="1566053777968" duration="8437000" />
     </task>
     <task id="LOCAL-00001" summary="Added firebase auth to all outbound request for firestore.&#10;https://github.com/icekode/universeAI-Client/issues/30">
       <created>1566059860976</created>
@@ -117,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566090176742</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implemented Google Ad Support&#10;https://github.com/icekode/universeAI-Client/issues/3">
+      <created>1566128982563</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566128982563</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +159,8 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="Added firebase auth to all outbound request for firestore.&#10;https://github.com/icekode/universeAI-Client/issues/30" />
     <MESSAGE value="Added google ads sdk" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added google ads sdk" />
+    <MESSAGE value="Implemented Google Ad Support&#10;https://github.com/icekode/universeAI-Client/issues/3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented Google Ad Support&#10;https://github.com/icekode/universeAI-Client/issues/3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="143" key="SettingsEditor" />
