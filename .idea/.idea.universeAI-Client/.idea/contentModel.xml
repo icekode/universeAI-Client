@@ -1078,6 +1078,69 @@
               </e>
             </e>
           </e>
+          <e p="Tiinoo" t="Include">
+            <e p="DeviceConsole" t="Include">
+              <e p="Changelog.txt" t="Include" />
+              <e p="Demo" t="Include">
+                <e p="Demo.cs" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="DCAboutTab.cs" t="Include" />
+                <e p="DCEditorWindow.cs" t="Include" />
+                <e p="DCMenu.cs" t="Include" />
+                <e p="DCSettingsTab.cs" t="Include" />
+                <e p="DCStyles.cs" t="Include" />
+              </e>
+              <e p="ReadMe.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="DC.cs" t="Include" />
+                <e p="DCConst.cs" t="Include" />
+                <e p="DCLoader.cs" t="Include" />
+                <e p="DCSettings.cs" t="Include" />
+                <e p="DCWatcher.cs" t="Include" />
+                <e p="Gesture" t="Include">
+                  <e p="DragDetector.cs" t="Include" />
+                  <e p="DragMouseDetector.cs" t="Include" />
+                  <e p="DragTouchDetector.cs" t="Include" />
+                  <e p="GestureDetector.cs" t="Include" />
+                  <e p="KeyDownDetector.cs" t="Include" />
+                  <e p="SwipeDetector.cs" t="Include" />
+                  <e p="SwipeMouseDetector.cs" t="Include" />
+                  <e p="SwipeTouchDetector.cs" t="Include" />
+                </e>
+                <e p="LogHistory" t="Include">
+                  <e p="LogBuffer.cs" t="Include" />
+                  <e p="LogEntry.cs" t="Include" />
+                  <e p="LogHandler.cs" t="Include" />
+                </e>
+                <e p="UI" t="Include">
+                  <e p="AutoChangeLayer.cs" t="Include" />
+                  <e p="UILogEntry.cs" t="Include" />
+                  <e p="UIWindow.cs" t="Include" />
+                  <e p="UIWindowMgr.cs" t="Include" />
+                  <e p="WindowAlert.cs" t="Include" />
+                  <e p="WindowConsole.cs" t="Include" />
+                  <e p="WindowDetector.cs" t="Include" />
+                  <e p="WindowMessageBox.cs" t="Include" />
+                  <e p="WindowUtil.cs" t="Include" />
+                </e>
+                <e p="Utils" t="Include">
+                  <e p="DragToResize.cs" t="Include" />
+                  <e p="ItemContainer.cs" t="Include" />
+                  <e p="ItemDrawer.cs" t="Include" />
+                  <e p="ItemRow.cs" t="Include" />
+                  <e p="ItemRowContainer.cs" t="Include" />
+                  <e p="ItemVerticalLayoutGroup.cs" t="Include" />
+                  <e p="KeyButton.cs" t="Include" />
+                  <e p="PlatformUtil.cs" t="Include" />
+                  <e p="StringUtil.cs" t="Include" />
+                  <e p="TimeUtil.cs" t="Include" />
+                  <e p="TransformUtil.cs" t="Include" />
+                  <e p="UGUIUtil.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
         </e>
         <e p="UniverseAI" t="Include">
           <e p="Scripts" t="Include">
