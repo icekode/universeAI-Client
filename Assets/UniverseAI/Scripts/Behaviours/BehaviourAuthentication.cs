@@ -21,6 +21,7 @@ namespace UniverseAI.Scripts.Behaviours
         void Start()
         {
             auth = Firebase.Auth.FirebaseAuth.DefaultInstance;
+            Debug.Log("BehaviourAuthentication Module Start");
         }
         
 
@@ -29,7 +30,7 @@ namespace UniverseAI.Scripts.Behaviours
         {
             if (isAccountCreated)
             {
-                Debug.Log( "Switch Screens");
+                Debug.Log("BehaviourAuthentication: Confirmed Account Created");
                 AuthSuccessful();
                 isAccountCreated = false; //Stop loop
             }
@@ -38,11 +39,13 @@ namespace UniverseAI.Scripts.Behaviours
 
         public void LoginUserViaEmail()
         {
+            Debug.Log("BehaviourAuthentication: Starting LogINUserViaEmail");
             HandleUserLogInViaEmail(inputEmail.value, inputPassword.value);
         }
 
         public void CreateNewUserViaEmail()
         {
+            Debug.Log("BehaviourAuthentication: Starting CreateNewUserViaEmail- Creating Account for " + inputEmail.value);
             Debug.Log("Creating Account for " + inputEmail.value);
             HandelNewUserViaEmail(inputEmail.value, inputPassword.value);
         }

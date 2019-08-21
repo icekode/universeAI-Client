@@ -2,149 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70527da0-2321-4382-8e96-40b77a74e338" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Changelog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Changelog.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/DCLoader.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/DCLoader.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Demo.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Demo/Demo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Demo/Demo.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Demo/Demo.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Demo/Demo.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Demo/Demo.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Demo/Demo.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Editor/DCAboutTab.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Editor/DCAboutTab.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Editor/DCEditorWindow.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Editor/DCEditorWindow.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Editor/DCMenu.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Editor/DCMenu.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Editor/DCSettingsTab.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Editor/DCSettingsTab.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Editor/DCStyles.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Editor/DCStyles.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Readme.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/bg_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/bg_white.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/clear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/clear.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/close.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/delete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/delete.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/error.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/error.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/info.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/info.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/max_size.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/max_size.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/normal_size.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/normal_size.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/scrollbar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/scrollbar.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/star.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/warning.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/warning.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Prefabs/DC.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Prefabs/DC.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Prefabs/DCLogEntry.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Prefabs/DCLogEntry.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/dc_settings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/dc_settings.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/DC.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/DC.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/DCConst.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/DCConst.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/DCLoader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/DCLoader.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/DCSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/DCSettings.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/DCWatcher.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/DCWatcher.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/DragDetector.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/DragDetector.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/DragMouseDetector.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/DragMouseDetector.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/DragTouchDetector.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/DragTouchDetector.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/GestureDetector.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/GestureDetector.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/KeyDownDetector.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/KeyDownDetector.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/SwipeDetector.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/SwipeDetector.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/SwipeMouseDetector.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/SwipeMouseDetector.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/SwipeTouchDetector.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Gesture/SwipeTouchDetector.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/LogHistory.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/LogHistory/LogBuffer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/LogHistory/LogBuffer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/LogHistory/LogEntry.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/LogHistory/LogEntry.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/LogHistory/LogHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/LogHistory/LogHandler.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/AutoChangeLayer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/AutoChangeLayer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/UILogEntry.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/UILogEntry.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/UIWindow.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/UIWindow.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/UIWindowMgr.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/UIWindowMgr.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/WindowAlert.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/WindowAlert.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/WindowConsole.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/WindowConsole.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/WindowDetector.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/WindowDetector.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/WindowMessageBox.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/WindowMessageBox.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/WindowUtil.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/WindowUtil.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/DragToResize.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/DragToResize.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/ItemContainer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/ItemContainer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/ItemDrawer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/ItemDrawer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/ItemRow.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/ItemRow.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/ItemRowContainer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/ItemRowContainer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/ItemVerticalLayoutGroup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/ItemVerticalLayoutGroup.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/KeyButton.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/KeyButton.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/PlatformUtil.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/PlatformUtil.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/StringUtil.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/StringUtil.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/TimeUtil.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/TimeUtil.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/TransformUtil.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/TransformUtil.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/UGUIUtil.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/Utils/UGUIUtil.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UniverseAI/SandBox/ControllerAds.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UniverseAI/SandBox/ControllerAds.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/res/values/crashlytics_build_id.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/res/values/crashlytics_build_id.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/UniverseAI/Scenes/sceneSample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scenes/sceneSample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourAuthentication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourAuthentication.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -162,13 +24,16 @@
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/SLS/Widgets/Table/Editor/TableEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerMobileAds.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/General/LoadData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ParadoxNotion/NodeCanvas/Tasks/Actions/Utility/DebugLogText.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourBanner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/AutoChangeLayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/AutoChangeLayer.cs.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/InfoTableRowBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourAuthentication.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/bg_white.png.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/clear.png.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/close.png.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/MainGameController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -178,6 +43,7 @@
         <option value="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourBanner.cs" />
         <option value="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerMobileAds.cs" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourAuthentication.cs" />
       </list>
     </option>
   </component>
@@ -249,6 +115,7 @@
       <workItem from="1566217994997" duration="581000" />
       <workItem from="1566341747463" duration="160000" />
       <workItem from="1566342177854" duration="538000" />
+      <workItem from="1566342944547" duration="2346000" />
     </task>
     <task id="LOCAL-00001" summary="Added firebase auth to all outbound request for firestore.&#10;https://github.com/icekode/universeAI-Client/issues/30">
       <created>1566059860976</created>
@@ -285,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566342508514</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Login Capbailities&#10;https://github.com/icekode/universeAI-Client/issues/39">
+      <created>1566343086292</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1566343086292</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +188,8 @@
     <MESSAGE value="Implemented Google Ad Support&#10;https://github.com/icekode/universeAI-Client/issues/3" />
     <MESSAGE value="Implemented android support&#10;https://github.com/icekode/universeAI-Client/issues/37" />
     <MESSAGE value="Update github" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update github" />
+    <MESSAGE value="Added Login Capbailities&#10;https://github.com/icekode/universeAI-Client/issues/39" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Login Capbailities&#10;https://github.com/icekode/universeAI-Client/issues/39" />
   </component>
   <component name="WindowStateProjectService">
     <state x="743" y="177" key="FileChooserDialogImpl" />
