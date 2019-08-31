@@ -3,7 +3,7 @@ guid: 3781f2218eef4d5a823dba406baa434b
 labels:
 - gvh
 - gvh_targets-editor
-- gvh_version-6.1.1
+- gvh_version-6.4.0
 PluginImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -15,6 +15,18 @@ PluginImporter:
   isExplicitlyReferenced: 0
   validateReferences: 1
   platformData:
+  - first:
+      '': Linux
+    second:
+      enabled: 0
+      settings:
+        CPU: None
+  - first:
+      '': LinuxUniversal
+    second:
+      enabled: 0
+      settings:
+        CPU: None
   - first:
       '': OSXIntel
     second:
@@ -69,19 +81,7 @@ PluginImporter:
       settings:
         CPU: None
   - first:
-      Standalone: Linux
-    second:
-      enabled: 0
-      settings:
-        CPU: None
-  - first:
       Standalone: Linux64
-    second:
-      enabled: 0
-      settings:
-        CPU: None
-  - first:
-      Standalone: LinuxUniversal
     second:
       enabled: 0
       settings:
