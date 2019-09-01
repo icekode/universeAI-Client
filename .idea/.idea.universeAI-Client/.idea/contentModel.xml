@@ -11,9 +11,9 @@
             <e p="AppDependencies.xml" t="Include" />
             <e p="AuthDependencies.xml" t="Include" />
             <e p="CrashlyticsDependencies.xml" t="Include" />
-            <e p="FirebaseAnalytics_version-6.1.1_manifest.txt" t="Include" />
-            <e p="FirebaseAuth_version-6.1.1_manifest.txt" t="Include" />
-            <e p="FirebaseCrashlytics_version-6.1.1_manifest.txt" t="Include" />
+            <e p="FirebaseAnalytics_version-6.4.0_manifest.txt" t="Include" />
+            <e p="FirebaseAuth_version-6.4.0_manifest.txt" t="Include" />
+            <e p="FirebaseCrashlytics_version-6.4.0_manifest.txt" t="Include" />
           </e>
           <e p="m2repository" t="Include">
             <e p="com" t="Include">
@@ -514,7 +514,6 @@
                       </e>
                       <e p="fsBaseConverter.cs" t="Include" />
                       <e p="fsConfig.cs" t="Include" />
-                      <e p="fsContext.cs" t="Include" />
                       <e p="fsConverter.cs" t="Include" />
                       <e p="fsData.cs" t="Include" />
                       <e p="fsDirectConverter.cs" t="Include" />
@@ -554,6 +553,7 @@
                     <e p="ColorUtils.cs" t="Include" />
                     <e p="CurveUtils.cs" t="Include" />
                     <e p="GUIStyleUtils.cs" t="Include" />
+                    <e p="ObjectUtils.cs" t="Include" />
                     <e p="RectUtils.cs" t="Include" />
                     <e p="StringUtils.cs" t="Include" />
                   </e>
@@ -846,6 +846,7 @@
                     <e p="LookAt.cs" t="Include" />
                     <e p="RemoveComponent.cs" t="Include" />
                     <e p="SetObjectActive.cs" t="Include" />
+                    <e p="SetObjectVisibility.cs" t="Include" />
                   </e>
                   <e p="Input" t="Include">
                     <e p="GetInputAxis.cs" t="Include" />

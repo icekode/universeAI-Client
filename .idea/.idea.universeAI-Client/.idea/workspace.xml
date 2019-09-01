@@ -2,11 +2,170 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70527da0-2321-4382-8e96-40b77a74e338" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdErrorEventArgs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdErrorEventArgs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdErrorEventArgs.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdErrorEventArgs.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdFailedToLoadEventArgs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdFailedToLoadEventArgs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdFailedToLoadEventArgs.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdFailedToLoadEventArgs.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdLoader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdLoader.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdLoader.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdPosition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdPosition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdPosition.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdPosition.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdRequest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdRequest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdRequest.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdRequest.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdSize.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdSize.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdSize.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdSize.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdapterStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdapterStatus.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdapterStatus.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdapterStatus.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/BannerView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/BannerView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/BannerView.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/BannerView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/CustomNativeEventArgs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/CustomNativeEventArgs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/CustomNativeEventArgs.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/CustomNativeEventArgs.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/CustomNativeTemplateAd.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/CustomNativeTemplateAd.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/CustomNativeTemplateAd.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/CustomNativeTemplateAd.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Gender.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Gender.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Gender.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Gender.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/InitializationStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/InitializationStatus.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/InitializationStatus.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/InitializationStatus.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/InterstitialAd.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/InterstitialAd.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/InterstitialAd.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/InterstitialAd.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Mediation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Mediation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Mediation/MediationExtras.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Mediation/MediationExtras.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Mediation/MediationExtras.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Mediation/MediationExtras.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/MobileAds.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/MobileAds.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/MobileAds.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/MobileAds.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Reward.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Reward.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Reward.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/Reward.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/RewardBasedVideoAd.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/RewardBasedVideoAd.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/RewardBasedVideoAd.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/RewardBasedVideoAd.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/RewardedAd.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/RewardedAd.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/RewardedAd.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/RewardedAd.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/ServerSideVerificationOptions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/ServerSideVerificationOptions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/ServerSideVerificationOptions.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Api/ServerSideVerificationOptions.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/DummyClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/DummyClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/DummyClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/DummyClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IAdLoaderClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IAdLoaderClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IAdLoaderClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IAdLoaderClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IBannerClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IBannerClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IBannerClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IBannerClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/ICustomNativeTemplateClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/ICustomNativeTemplateClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/ICustomNativeTemplateClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/ICustomNativeTemplateClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInitializationStatusClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInitializationStatusClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInitializationStatusClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInitializationStatusClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInterstitialClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInterstitialClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInterstitialClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInterstitialClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IMobileAdsClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IMobileAdsClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IMobileAdsClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IMobileAdsClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IRewardBasedVideoAdClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IRewardBasedVideoAdClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IRewardBasedVideoAdClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IRewardBasedVideoAdClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IRewardedAdClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IRewardedAdClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IRewardedAdClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IRewardedAdClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/MobileAdsEventExecutor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/MobileAdsEventExecutor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/MobileAdsEventExecutor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/MobileAdsEventExecutor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/RewardedAdDummyClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/RewardedAdDummyClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/RewardedAdDummyClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/RewardedAdDummyClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/Utils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/Utils.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/Utils.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Common/Utils.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettings.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettings.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettingsEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettingsEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettingsEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettingsEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/ManifestProcessor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/ManifestProcessor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/ManifestProcessor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/ManifestProcessor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/PListProcessor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/PListProcessor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/PListProcessor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/PListProcessor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/AdLoaderClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/AdLoaderClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/AdLoaderClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/AdLoaderClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/BannerClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/BannerClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/BannerClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/BannerClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/CustomNativeTemplateClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/CustomNativeTemplateClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/CustomNativeTemplateClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/CustomNativeTemplateClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/InitializationStatusClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/InitializationStatusClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/InitializationStatusClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/InitializationStatusClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/InterstitialClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/InterstitialClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/InterstitialClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/InterstitialClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/MobileAdsClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/MobileAdsClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/MobileAdsClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/MobileAdsClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/RewardBasedVideoAdClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/RewardBasedVideoAdClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/RewardBasedVideoAdClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/RewardBasedVideoAdClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/RewardedAdClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/RewardedAdClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/RewardedAdClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/RewardedAdClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/Utils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/Utils.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/Utils.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/Android/Utils.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/GoogleMobileAdsClientFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/GoogleMobileAdsClientFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/GoogleMobileAdsClientFactory.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/GoogleMobileAdsClientFactory.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/AdLoaderClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/AdLoaderClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/AdLoaderClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/AdLoaderClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/BannerClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/BannerClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/BannerClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/BannerClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/CustomNativeTemplateClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/CustomNativeTemplateClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/CustomNativeTemplateClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/CustomNativeTemplateClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/Externs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/Externs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/Externs.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/Externs.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/InitializationStatusClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/InitializationStatusClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/InitializationStatusClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/InitializationStatusClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/InterstitialClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/InterstitialClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/InterstitialClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/InterstitialClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/MobileAdsClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/MobileAdsClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/MobileAdsClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/MobileAdsClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/MonoPInvokeCallbackAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/MonoPInvokeCallbackAttribute.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/MonoPInvokeCallbackAttribute.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/MonoPInvokeCallbackAttribute.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/RewardBasedVideoAdClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/RewardBasedVideoAdClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/RewardBasedVideoAdClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/RewardBasedVideoAdClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/RewardedAdClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/RewardedAdClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/RewardedAdClient.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/RewardedAdClient.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/Utils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/Utils.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/Utils.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Platforms/iOS/Utils.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.124.0.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.124.0.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.124.0.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.124.0.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.124.0.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.124.0.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.124.0.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.124.0.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.124.0.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.124.0.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.124.0.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.124.0.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/play-services-resolver_v1.2.124.0.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayServicesResolver/Editor/play-services-resolver_v1.2.124.0.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/res/values/crashlytics_build_id.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/res/values/crashlytics_build_id.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/res/values/crashlytics_unity_version.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/res/values/crashlytics_unity_version.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.answers-1.4.7.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.answers-1.4.7.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.answers-1.4.7.aar.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.answers-1.4.7.aar.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.beta-1.2.10.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.beta-1.2.10.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.beta-1.2.10.aar.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.beta-1.2.10.aar.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-2.9.9.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-2.9.9.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-2.9.9.aar.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-2.9.9.aar.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-core-2.6.8.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-core-2.6.8.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-core-2.6.8.aar.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-core-2.6.8.aar.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.auto.value.auto-value-annotations-1.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.auto.value.auto-value-annotations-1.6.3.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.firebase.firebase-analytics-unity-6.1.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.firebase.firebase-analytics-unity-6.1.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-6.1.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-6.1.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.firebase.firebase-crashlytics-unity-6.1.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/com.google.firebase.firebase-crashlytics-unity-6.1.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/io.fabric.sdk.android.fabric-1.4.8.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/io.fabric.sdk.android.fabric-1.4.8.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/io.fabric.sdk.android.fabric-1.4.8.aar.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/io.fabric.sdk.android.fabric-1.4.8.aar.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/ParadoxNotion.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThirdParty/ParadoxNotion.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/UniverseAI/Scenes/sceneSample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scenes/sceneSample.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourAuthentication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourAuthentication.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/AndroidResolverDependencies.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AndroidResolverDependencies.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,22 +177,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerAuthentication.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInitializationStatusClient.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Changelog.txt.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/SLS/Widgets/Table/Editor/TableEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/InfoTableRowBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInitializationStatusClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerAuthentication.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerMobileAds.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/General/LoadData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ParadoxNotion/NodeCanvas/Tasks/Actions/Utility/DebugLogText.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourBanner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/MainGameController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/AutoChangeLayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Scripts/UI/AutoChangeLayer.cs.meta" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/InfoTableRowBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourAuthentication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/General/LoadData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdapterStatus.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/bg_white.png.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourAuthentication.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/clear.png.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourBanner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Tiinoo/DeviceConsole/Resources/DeviceConsole/Images/close.png.meta" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/MainGameController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,8 +201,9 @@
         <option value="$PROJECT_DIR$/Assets/UniverseAI/Scripts/General/LoadData.cs" />
         <option value="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourBanner.cs" />
         <option value="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Controllers/ControllerMobileAds.cs" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Assets/UniverseAI/Scripts/Behaviours/BehaviourAuthentication.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -116,6 +276,7 @@
       <workItem from="1566341747463" duration="160000" />
       <workItem from="1566342177854" duration="538000" />
       <workItem from="1566342944547" duration="2346000" />
+      <workItem from="1567294252276" duration="2543000" />
     </task>
     <task id="LOCAL-00001" summary="Added firebase auth to all outbound request for firestore.&#10;https://github.com/icekode/universeAI-Client/issues/30">
       <created>1566059860976</created>
