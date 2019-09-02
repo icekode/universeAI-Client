@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="70527da0-2321-4382-8e96-40b77a74e338" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.universeAI-Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/res/values/crashlytics_build_id.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/Firebase/res/values/crashlytics_build_id.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniverseAI/Scenes/sceneSample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniverseAI/Scenes/sceneSample.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +115,7 @@
       <workItem from="1566341747463" duration="160000" />
       <workItem from="1566342177854" duration="538000" />
       <workItem from="1566342944547" duration="2346000" />
-      <workItem from="1567294252276" duration="3289000" />
+      <workItem from="1567294252276" duration="6251000" />
     </task>
     <task id="LOCAL-00001" summary="Added firebase auth to all outbound request for firestore.&#10;https://github.com/icekode/universeAI-Client/issues/30">
       <created>1566059860976</created>
@@ -164,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567297069596</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updated to support android requirements&#10;This release is not compliant with the Google Play 64-bit requirement&#10;&#10;The following APKs or App Bundles are available to 64-bit devices, but they only have 32-bit native code: 9.">
+      <created>1567297815163</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567297815163</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +204,8 @@
     <MESSAGE value="Update github" />
     <MESSAGE value="Added Login Capbailities&#10;https://github.com/icekode/universeAI-Client/issues/39" />
     <MESSAGE value="standarized all packages for stability on android and windows. raised build to 0.1.0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="standarized all packages for stability on android and windows. raised build to 0.1.0.1" />
+    <MESSAGE value="updated to support android requirements&#10;This release is not compliant with the Google Play 64-bit requirement&#10;&#10;The following APKs or App Bundles are available to 64-bit devices, but they only have 32-bit native code: 9." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated to support android requirements&#10;This release is not compliant with the Google Play 64-bit requirement&#10;&#10;The following APKs or App Bundles are available to 64-bit devices, but they only have 32-bit native code: 9." />
   </component>
   <component name="WindowStateProjectService">
     <state x="743" y="177" key="FileChooserDialogImpl" />
